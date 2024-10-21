@@ -1,5 +1,5 @@
 # sql-challenge
-# Employee Management Database SCEHMATA 
+# Employee Management Database SCHEMATA 
 This Employee Management Database is designed to handle employee records, departmental assignments, salaries, and titles within an organization. The database consists of several tables that store related information, ensuring data integrity through established relationships.
 
 Employee: Stores basic information about employees.
